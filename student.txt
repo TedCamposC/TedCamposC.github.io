@@ -1,5 +1,5 @@
 Student name: Tedy H. Campos Castillo 
 Student number: 697953
 Student class: retake
-GitHub repository: 
-GitHub pages url: 
+GitHub repository:  https://github.com/TedCamposC/TedCamposC.github.io
+GitHub pages url: TedCamposC.github.io
